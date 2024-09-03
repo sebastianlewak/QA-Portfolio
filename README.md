@@ -8,22 +8,22 @@ Welcome to my QA Portfolio! Below, you'll find an overview of my work in softwar
 
 I tested a web application to ensure its functionality, performance, and security met the required standards. Below is the link to the website:
 
-[Visit the Tested Website](https://skleptest.pl/)
+<a href="https://skleptest.pl/" target="_blank">Visit the Tested Website</a>
 
 ### 1. Test Scenarios
 Test scenarios define the high-level functions or parts of the web application that I have tested. These are designed to ensure all critical aspects of the system have been covered.
 
-[View Test Scenarios](https://drive.google.com/drive/folders/1sljB4LnVx4k2_JC6gGVbpBO8sDW5OvaQ?hl=pl)
+<a href="https://drive.google.com/drive/folders/1sljB4LnVx4k2_JC6gGVbpBO8sDW5OvaQ?hl=pl" target="_blank">View Test Scenarios</a>
 
 ### 2. Test Cases
 Test cases are detailed steps that describe the actions performed during testing, along with the expected results. Each test case is linked to a specific test scenario.
 
-[View Test Cases](https://drive.google.com/drive/folders/1bOpRBSNPWLUl5ggG4sUYm-R7xeOPsQNu?hl=pl)
+<a href="https://drive.google.com/drive/folders/1bOpRBSNPWLUl5ggG4sUYm-R7xeOPsQNu?hl=pl" target="_blank">View Test Cases</a>
 
 ### 3. Bug Reports
 During testing, I identified several issues and logged them as bug reports. Each report includes detailed information about the bug, including steps to reproduce, severity, and screenshots.
 
-[View Bug Reports](https://drive.google.com/drive/folders/1FFiZYniHSgMy7xwNoEDn9YvrpuZYW0cz?hl=pl)
+<a href="https://drive.google.com/drive/folders/1FFiZYniHSgMy7xwNoEDn9YvrpuZYW0cz?hl=pl" target="_blank">View Bug Reports</a>
 
 ### 4. Custom Form and SQL Database Testing
 
