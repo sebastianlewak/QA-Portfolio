@@ -39,11 +39,28 @@ As part of my testing work, I developed and tested a custom form built in **Reac
 
 ## 🔧 Tools Used
 
-- **TestRail**: Used for managing and organizing test cases and scenarios.
-- **Jira**: Used for bug tracking and reporting.
-- **Google Drive**: Used to store and share test artifacts.
-- **SQL**: Utilized for backend testing to ensure data integrity and accuracy.
-- **Browser and Developer Tools**: Used for manual testing and debugging.
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/TestRail-%23000000?style=flat&logo=testrail&logoColor=white" alt="TestRail" /></td>
+    <td><strong>TestRail</strong>: Used for managing and organizing test cases and scenarios.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Jira-%2300055A?style=flat&logo=jira&logoColor=white" alt="Jira" /></td>
+    <td><strong>Jira</strong>: Used for bug tracking and reporting.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Google_Drive-%234285F4?style=flat&logo=google-drive&logoColor=white" alt="Google Drive" /></td>
+    <td><strong>Google Drive</strong>: Used to store and share test artifacts.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SQL-%234F5D73?style=flat&logo=sql&logoColor=white" alt="SQL" /></td>
+    <td><strong>SQL</strong>: Utilized for backend testing to ensure data integrity and accuracy.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Browser_and_Developer_Tools-%2394C2F0?style=flat&logo=googlechrome&logoColor=white" alt="Browser and Developer Tools" /></td>
+    <td><strong>Browser and Developer Tools</strong>: Used for manual testing and debugging.</td>
+  </tr>
+</table>
 
 ## 🚀 Ongoing Learning
 
