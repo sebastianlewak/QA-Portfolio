@@ -25,7 +25,7 @@ During testing, I identified several issues and logged them as bug reports. Each
 
 <a href="https://drive.google.com/drive/folders/1FFiZYniHSgMy7xwNoEDn9YvrpuZYW0cz?hl=pl" target="_blank">View Bug Reports</a>
 
-<!--### 4. Custom Form and SQL Database Testing
+### 4. Custom Form and SQL Database Testing
 
 As part of my testing work, I developed and tested a custom form built in **React**, integrated with a local **SQL database**. The testing process included:
 
@@ -33,7 +33,7 @@ As part of my testing work, I developed and tested a custom form built in **Reac
 - **Database Integration**: Tested the connection between the form and the SQL database, focusing on data storage, retrieval, and query accuracy.
 - **SQL Queries**: Created and validated SQL queries to ensure data integrity and correct data manipulation within the database.
 
-[View SQL Database Testing](https://github.com/sebastianlewak/custom-form)//-->
+[View SQL Database Testing](https://github.com/sebastianlewak/custom-form)//
 
 
 
